@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to JLU Survive Guidebook](README.md)
+* [👋 Untitled](README.md)
 
 ## About us
 
